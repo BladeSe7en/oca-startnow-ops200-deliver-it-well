@@ -47,4 +47,4 @@ describe('server/app.js', function() {
         done();
       });
     });
-})
+}) 
